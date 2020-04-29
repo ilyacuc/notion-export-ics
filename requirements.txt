@@ -1,3 +1,4 @@
 Flask==1.1.1
 icalendar==4.0.4
 notion==0.0.24
+gunicorn
